@@ -4,3 +4,9 @@ ctakes-build-area/*
 .project
 org
 data
+
+*.swo
+*.swp
+*.pyc
+*.bak
+*.vscode
